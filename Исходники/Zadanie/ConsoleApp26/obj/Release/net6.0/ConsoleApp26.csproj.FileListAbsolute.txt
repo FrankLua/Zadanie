@@ -1,0 +1,17 @@
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.csproj.AssemblyReference.cache
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.AssemblyInfoInputs.cache
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.AssemblyInfo.cs
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\bin\Release\net6.0\ConsoleApp26.exe
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\bin\Release\net6.0\ConsoleApp26.deps.json
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\bin\Release\net6.0\ConsoleApp26.runtimeconfig.json
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\bin\Release\net6.0\ConsoleApp26.dll
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\bin\Release\net6.0\ConsoleApp26.pdb
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\bin\Release\net6.0\MimeMapping.dll
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.csproj.CopyComplete
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.dll
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\refint\ConsoleApp26.dll
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.pdb
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ConsoleApp26.genruntimeconfig.cache
+C:\Users\sosis\source\repos\ConsoleApp26\ConsoleApp26\obj\Release\net6.0\ref\ConsoleApp26.dll
